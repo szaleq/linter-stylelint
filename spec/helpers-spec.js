@@ -49,7 +49,7 @@ describe('Helpers', () => {
           toString: () => fixedText
         },
         opts: {
-          syntax: null // Just need the right shape, we're faking our toString
+          customSyntax: null // Just need the right shape, we're faking our toString
         }
       }
     };
