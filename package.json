@@ -62,7 +62,7 @@
     "atom-package-deps": "8.0.0",
     "resolve": "1.20.0",
     "stylelint": "14.1.0",
-    "stylelint-config-standard": "23.0.0"
+    "stylelint-config-standard": "24.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "14.1.0",
